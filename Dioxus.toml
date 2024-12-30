@@ -1,0 +1,17 @@
+[application]
+
+name = "filefleet"
+
+[web.app]
+
+title = "filefleet"
+
+[web.resource]
+
+style = []
+
+script = []
+
+[web.resource.dev]
+
+script = []
